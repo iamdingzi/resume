@@ -4,39 +4,39 @@
       <div class="left">
         <Brief></Brief>
         <ContextList title="CONTACT" :icon="require('@/assets/title-contact.png')">
-          <ListItemInfo title="1860***3412" 
+          <ListItemInfo title="1518***8995"
                         :image="require('@/assets/contact-phone.png')"
                         slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="luo_sj@163.com" 
+          <ListItemInfo title="46515***@qq.com"
                         :image="require('@/assets/contact-mail.png')"
                         slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="lsj***inhao" 
+          <ListItemInfo title="pen***iang"
                         :image="require('@/assets/social-wechat.png')"
-                        slot="listItem">           
+                        slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="155***9564" 
+          <ListItemInfo title="465***708"
                         :image="require('@/assets/social-qq.png')"
-                        slot="listItem">           
+                        slot="listItem">
           </ListItemInfo>
         </ContextList>
         <ContextList title="SOCIAL" :icon="require('@/assets/title-contact.png')">
-          <ListItemInfo title="github.com/luosijie" 
+          <ListItemInfo title="github.com/iamdingzi"
                         :image="require('@/assets/social-github.png')"
-                        slot="listItem">      
+                        slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="dribbble.com/luosj" 
+          <ListItemInfo title="dribbble.com/px"
                         :image="require('@/assets/social-dribbble.png')"
-                        slot="listItem">               
+                        slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="behance.net/jesseluo" 
+          <ListItemInfo title="behance.net/px"
                         :image="require('@/assets/social-behance.png')"
-                        slot="listItem">      
+                        slot="listItem">
           </ListItemInfo>
-          <ListItemInfo title="i.ui.cn/ucenter/122744" 
+          <ListItemInfo title="i.ui.cn/ucenter/no"
                         :image="require('@/assets/social-uicn.png')"
-                        slot="listItem">      
+                        slot="listItem">
           </ListItemInfo>
         </ContextList>
       </div>
@@ -50,7 +50,7 @@
           <ListItemSkill slot="listItem" title="Vue" :percent="30"></ListItemSkill>
         </ContextList>
         <ContextList title="Education">
-          <ListItemEducation slot="listItem" school="Minjiang University" major="History" date="2011.9 — 2015.6"></ListItemEducation>
+          <ListItemEducation slot="listItem" school="SiChuanLiGong University" major="History" date="2011.9 — 2015.6"></ListItemEducation>
         </ContextList>
         <ContextList title="Working Experience">
           <ListItemExperience slot="listItem"></ListItemExperience>
@@ -250,7 +250,7 @@ export default {
           text-align:justify;
         }
       }
-      
+
     }
     button.sap{
       position: absolute;
