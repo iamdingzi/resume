@@ -20,7 +20,7 @@
       },
       title: {
         type: String,
-        default: 'github.com/luosijie'
+        default: 'github.com/iamdingzi'
       }
     }
   }

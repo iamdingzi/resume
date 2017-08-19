@@ -3,11 +3,11 @@
     <div class="avatar">
       <EditImage :src="require('@/assets/logo_name.png')" width="212" height="212" :isCircle="true" class="img"></EditImage>
       <!-- <img src="./assets/photo.png" alt="photo"> -->
-      <div class="name" contenteditable="true">Jesse Luo</div>
-      <div class="job" contenteditable="true">Front-End</div>
+      <div class="name" contenteditable="true">Xiang peng</div>
+      <div class="job" contenteditable="true">java</div>
       <div class="location">
         <img src="../assets/location.png"  alt="">
-        <div class="location-name" contenteditable="true">Xiamen, China</div>
+        <div class="location-name" contenteditable="true">Chengdu, China</div>
       </div>
     </div>
     <div class="info">
@@ -17,7 +17,7 @@
           <div class="key" contenteditable="true">SEX</div>
         </li>
         <li>
-          <div class="value" contenteditable="true">26</div>
+          <div class="value" contenteditable="true">28</div>
           <div class="key" contenteditable="true">AGE</div>
         </li>
         <li>

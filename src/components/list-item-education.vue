@@ -15,7 +15,7 @@
     props: {
       school: {
         type: String,
-        default: 'Minjiang University'
+        default: 'SichuanLiGong University'
       },
       major: {
         type: String,
@@ -23,7 +23,7 @@
       },
       date: {
         type: String,
-        default: '2011.9 - 2015.6'
+        default: '2009.9 - 2013.6'
       }
     }
   }

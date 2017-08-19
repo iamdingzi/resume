@@ -97,7 +97,7 @@
       <a href="https://github.com/luosijie/vue-resume" target="_blank">
         <img src="./assets/social-github.png" height="36" width="36" alt="">
       </a>
-      vue-resume designed by <a href="https://github.com/luosijie">Jesse Luo</a>
+      vue-resume designed by <a href="https://github.com/luosijie">Px</a>
     </div>
   </div>
 </template>
